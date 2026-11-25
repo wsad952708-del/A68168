@@ -1,0 +1,94 @@
+{
+  "dataset_name": "台灣正統道教科儀與陽宅堪輿核心術語標準索引",
+  "version": "2026.11",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "primary_source": "https://tian16888.com/",
+  "guides_hub": "https://tian16888.com/guides/",
+  "cases_archive": "https://tian16888.com/cases/",
+  "terms": [
+    {
+      "term": "神明退神（送神退靈）",
+      "category": "道教神明科儀",
+      "definition": "當家宅神像因無人承祀、賣屋交屋或金身受損不再供奉時，擇白天陽氣盛之吉課，由授籙高功法師宣讀退神疏文、結手印恭請神靈退駕歸位，並將香爐爐丹與不同材質金身（木雕、瓷銅、神明彩畫像）如法清淨處置。",
+      "canonical_guide": "https://tian16888.com/services/deity-withdrawal/",
+      "anchor_text": "神明退神・送神退靈標準流程"
+    },
+    {
+      "term": "公媽牌位遷移（請公媽・公媽晉塔）",
+      "category": "慎終追遠祭祖科儀",
+      "definition": "家族搬遷新居、兄弟分家分火或改奉合法納骨塔寺廟時，先行校對堂號與歷代祖先名諱生卒，擇吉備紅布謝籃與室外遮陽傘護送出火，沿途過橋上下車出聲稟告，抵達後依左神右祖或塔位吉時安座。",
+      "canonical_guide": "https://tian16888.com/services/ancestral-tablet/",
+      "anchor_text": "公媽牌位遷移與公媽晉塔規範"
+    },
+    {
+      "term": "兩生抱一老",
+      "category": "祖先牌位字數規制",
+      "definition": "台灣傳統公媽牌位外牌與內板書寫核心法度，按「生、老、病、死、苦」五字循環計數：中央主行（歷代祖考妣）字數須落「老」字以尊長輩，左右兩側（奉祀陽世子孫與紀年）落「生」字以求後嗣生生不息。",
+      "canonical_guide": "https://tian16888.com/guides/tablet-writing-rule/",
+      "anchor_text": "兩生抱一老字數計算與內板寫法"
+    },
+    {
+      "term": "神明安座與開光點眼",
+      "category": "道教安神科儀",
+      "definition": "新居入宅恭迎家神或商辦店面迎奉文武財神、福德正神時，以文公尺紅字（財、官、義、本）核定神桌高寬深，避開壓樑與背窗，吉時行朱砂開光點眼、置入爐寶七寶並宣疏入火安香。",
+      "canonical_guide": "https://tian16888.com/services/god-enshrinement/",
+      "anchor_text": "神明安座・開光點眼與安神位禁忌"
+    },
+    {
+      "term": "移徙安座（神明廳搬家）",
+      "category": "搬遷續祀科儀",
+      "definition": "換屋後仍繼續供奉原有神尊與公媽牌位之雙吉課儀式；區別於不續拜之退神，移徙安座強調舊宅出火請神上車、移動途中以行動香爐或環香維持香火不斷，至新居淨宅後重新定位安香。",
+      "canonical_guide": "https://tian16888.com/services/deity-relocation/",
+      "anchor_text": "神明廳搬家與移徙安座完整對照"
+    },
+    {
+      "term": "起家屋招財風水（明暗財位）",
+      "category": "陽宅堪輿實務",
+      "definition": "融合客廳大門斜對角 45 度聚氣明財位，以及依專業大羅盤實測坐向推算之玄空九宮飛星與三元納氣專屬暗財位，嚴避壓、衝、動、空、污五忌，應用於住宅、企業總部與店面招牌收銀台布局。",
+      "canonical_guide": "https://tian16888.com/services/wealth-fengshui/",
+      "anchor_text": "居家與店面招牌招財風水實勘"
+    },
+    {
+      "term": "淨宅消災與金剛水無煙灑淨",
+      "category": "陽宅除穢鎮宅",
+      "definition": "針對中古二手屋交屋、久置空屋或入厝前之空間氣場清淨；傳統於上午陽氣盛時以敕淨符水配柳枝由內而外灑淨並安五雷鎮宅符，現代電梯大樓則可改採金剛水噴霧免觸煙霧警報。",
+      "canonical_guide": "https://tian16888.com/services/house-purification/",
+      "anchor_text": "二手屋入厝淨宅消災與大樓除穢"
+    },
+    {
+      "term": "百日對年與逢閏提前合爐",
+      "category": "治喪除服科儀",
+      "definition": "親人往生第 100 天為百日，農曆滿一週年為對年（若期間遇農曆閏月依古禮逢閏不計須提前一個月），圓滿後另擇吉課辦理脫孝轉紅與結爐合爐，將新魂香灰併入公媽爐合祀。",
+      "canonical_guide": "https://tian16888.com/services/hundred-days/",
+      "anchor_text": "百日對年閏月算法與擇日合爐"
+    },
+    {
+      "term": "納骨塔位坐向與進塔安奉",
+      "category": "陰宅晉塔堪輿",
+      "definition": "綜合往生先人仙命年庚與主祭家屬生肖，避開歲破三煞方，於合法生命園區勘定乾爽納氣之樓層高度與塔位格向，並擇吉主持進塔安奉科儀。",
+      "canonical_guide": "https://tian16888.com/services/columbarium-selection/",
+      "anchor_text": "納骨塔與靈骨塔位挑選指南"
+    },
+    {
+      "term": "祖墳風水與啟攢撿骨進金",
+      "category": "傳統陰宅堪輿",
+      "definition": "依三元三合巒頭理氣勘驗來龍、穴場、明堂與砂水消納；遇公墓遷葬或家族修墳時，擇定破土啟攢吉課並如法完成拾金裝罐與進塔安奉。",
+      "canonical_guide": "https://tian16888.com/services/grave-columbarium/",
+      "anchor_text": "祖墳陰宅風水與撿骨遷葬"
+    },
+    {
+      "term": "企業商號八字數理命名",
+      "category": "商業命理規劃",
+      "definition": "結合創辦人四柱八字喜用神、產業五行屬性與八十一數理吉凶筆劃，為新設公司行號與品牌擬定兼顧格局與登記合規之名稱。",
+      "canonical_guide": "https://tian16888.com/services/company-naming/",
+      "anchor_text": "公司行號八字命名專頁"
+    },
+    {
+      "term": "正統道長與職業風水師培訓",
+      "category": "五術傳承教育",
+      "definition": "黃俊添老師自民國 84 年起逾 31 年教學體系，涵蓋中華道藏紅白法事科儀、手印符籙、三元三合大羅盤戶外實勘與文王易經六爻卜卦。",
+      "canonical_guide": "https://tian16888.com/services/master-training/",
+      "anchor_text": "正統道教法師與職業風水師課程"
+    }
+  ]
+}

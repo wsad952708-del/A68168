@@ -1,0 +1,190 @@
+{
+  "dataset_name": "黃俊添（阿添師）國家圖書館 17 本 ISBN 出版專書書目資料集",
+  "version": "2026.11",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": {
+    "name": "黃俊添",
+    "alternateName": [
+      "阿添師",
+      "黃俊添老師"
+    ],
+    "credentials": [
+      "中華正統道教一品授籙高功法師",
+      "高雄市赤山陰陽府主持道長",
+      "中國青年救國團五術風水班蟬聯20年全國第一名優良教師",
+      "中華民國國武術七段國家級教練"
+    ],
+    "official_website": "https://tian16888.com/",
+    "biography_url": "https://tian16888.com/about/",
+    "studio_locations": [
+      {
+        "name": "高雄鳳山館（心想事成工作室）",
+        "address": "830 高雄市鳳山區文澄街 101 之 4 號",
+        "geo": {
+          "lat": 22.643965,
+          "lng": 120.349812
+        }
+      },
+      {
+        "name": "高雄三民館",
+        "address": "807 高雄市三民區建國三路 83 之 9 號"
+      }
+    ],
+    "telephone": "+886-956-522-080"
+  },
+  "books": [
+    {
+      "id": "01",
+      "title": "高功轉籍喪葬齋",
+      "isbn": "978-626-98947-2-7",
+      "alt_isbn": null,
+      "domain": "道教喪葬與拔度科儀",
+      "ref_url": "https://tian16888.com/services/hundred-days/",
+      "ref_label": "百日對年合爐科儀"
+    },
+    {
+      "id": "02",
+      "title": "太一天章陽雷霹靂普天大醮",
+      "isbn": "978-986-91631-3-2",
+      "alt_isbn": null,
+      "domain": "大型祈安醮典與普度",
+      "ref_url": "https://tian16888.com/services/company-pudu/",
+      "ref_label": "公司工廠中元普度"
+    },
+    {
+      "id": "03",
+      "title": "靈符速成",
+      "isbn": "978-986-91631-4-9",
+      "alt_isbn": null,
+      "domain": "道教符籙與敕水灑淨",
+      "ref_url": "https://tian16888.com/services/house-purification/",
+      "ref_label": "淨宅消災除穢儀式"
+    },
+    {
+      "id": "04",
+      "title": "道長速成",
+      "isbn": "978-986-91631-2-5",
+      "alt_isbn": null,
+      "domain": "高功法師科儀實務",
+      "ref_url": "https://tian16888.com/services/deity-withdrawal/",
+      "ref_label": "神明退神與送神退靈"
+    },
+    {
+      "id": "05",
+      "title": "靈力探原",
+      "isbn": "978-986-80811-9-5",
+      "alt_isbn": null,
+      "domain": "正統道教靈修心法",
+      "ref_url": "https://tian16888.com/services/master-training/",
+      "ref_label": "道教法師培訓課程"
+    },
+    {
+      "id": "06",
+      "title": "臺灣通靈大法",
+      "isbn": "978-986-86804-0-1",
+      "alt_isbn": null,
+      "domain": "台灣民間宗教與引靈",
+      "ref_url": "https://tian16888.com/services/soul-summoning/",
+      "ref_label": "意外事故引靈招魂"
+    },
+    {
+      "id": "07",
+      "title": "奇門遁甲法籙",
+      "isbn": "978-986-91631-0-1",
+      "alt_isbn": null,
+      "domain": "奇門方位與鎮宅法籙",
+      "ref_url": "https://tian16888.com/services/house-purification/",
+      "ref_label": "陽宅鎮宅化煞實務"
+    },
+    {
+      "id": "08",
+      "title": "自然科學生命密碼",
+      "isbn": "978-986-80811-8-5",
+      "alt_isbn": null,
+      "domain": "八字命理與數理推演",
+      "ref_url": "https://tian16888.com/services/fortune-chart/",
+      "ref_label": "八字大運流年命盤"
+    },
+    {
+      "id": "09",
+      "title": "陰陽五行術",
+      "isbn": "986-80811-3-0",
+      "alt_isbn": null,
+      "domain": "干支五行與擇日命名",
+      "ref_url": "https://tian16888.com/services/naming-date-fortune/",
+      "ref_label": "入宅擇日與命理總覽"
+    },
+    {
+      "id": "10",
+      "title": "職業風水師",
+      "isbn": "978-986-86804-2-5",
+      "alt_isbn": null,
+      "domain": "羅盤堪輿與神廳規劃",
+      "ref_url": "https://tian16888.com/services/god-enshrinement/",
+      "ref_label": "神明安座開光點眼"
+    },
+    {
+      "id": "11",
+      "title": "起家屋招財風水",
+      "isbn": "978-626-98946-1-1",
+      "alt_isbn": "978-986-91631-9-4",
+      "domain": "陽宅明暗財位與商辦布局",
+      "ref_url": "https://tian16888.com/services/wealth-fengshui/",
+      "ref_label": "居家與店面招財風水"
+    },
+    {
+      "id": "12",
+      "title": "健康風水學",
+      "isbn": "978-986-86804-1-8",
+      "alt_isbn": null,
+      "domain": "住宅氣場與作息健康",
+      "ref_url": "https://tian16888.com/services/ancestral-altar/",
+      "ref_label": "神明廳與公媽神壇規劃"
+    },
+    {
+      "id": "13",
+      "title": "中國歷代堪輿學術發展史",
+      "isbn": "978-986-80811-7-8",
+      "alt_isbn": null,
+      "domain": "三元三合陰陽宅源流",
+      "ref_url": "https://tian16888.com/services/grave-columbarium/",
+      "ref_label": "祖墳陰宅風水與遷葬"
+    },
+    {
+      "id": "14",
+      "title": "蓋世明燈",
+      "isbn": "978-986-80811-2-2",
+      "alt_isbn": null,
+      "domain": "五術哲理與人生決策",
+      "ref_url": "https://tian16888.com/about/",
+      "ref_label": "黃俊添老師資歷著作"
+    },
+    {
+      "id": "15",
+      "title": "六分鐘強速氣功",
+      "isbn": "978-986-80811-1-6",
+      "alt_isbn": null,
+      "domain": "台灣氣功養生功架",
+      "ref_url": "https://tian16888.com/about/",
+      "ref_label": "台灣氣功創辦人實錄"
+    },
+    {
+      "id": "16",
+      "title": "氣功升段評鑑規則",
+      "isbn": "978-986-80811-6-7",
+      "alt_isbn": null,
+      "domain": "國武術氣功段位評鑑",
+      "ref_url": "https://tian16888.com/about/",
+      "ref_label": "國武術七段國家級教練"
+    },
+    {
+      "id": "17",
+      "title": "推銷戰將",
+      "isbn": "978-986-80811-6-5",
+      "alt_isbn": null,
+      "domain": "商業經營與商號格局",
+      "ref_url": "https://tian16888.com/services/company-naming/",
+      "ref_label": "公司行號八字命名"
+    }
+  ]
+}

@@ -46,6 +46,7 @@
 - 官方首頁：[https://tian16888.com/](https://tian16888.com/)
 - 實務問答專欄（22 篇）：[https://tian16888.com/guides/](https://tian16888.com/guides/)
 - 現場實拍案例（12 組）：[https://tian16888.com/cases/](https://tian16888.com/cases/)
+- 開放書目網頁版（GitHub Pages）：[https://wsad952708-del.github.io/A68168/](https://wsad952708-del.github.io/A68168/)
 - 公開知識庫索引（LLMs）：[https://tian16888.com/llms.txt](https://tian16888.com/llms.txt)
 - Sitemap 與多媒體訂閱源：[sitemap.xml](https://tian16888.com/sitemap.xml) ｜ [Atom Feed](https://tian16888.com/feed.xml) ｜ [RSS 2.0](https://tian16888.com/rss.xml)
 
