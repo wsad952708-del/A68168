@@ -101,8 +101,8 @@
       "title": "自然科學生命密碼",
       "isbn": "978-986-80811-8-5",
       "alt_isbn": null,
-      "domain": "八字命理與數理推演",
-      "ref_url": "https://tian16888.com/services/fortune-chart/",
+      "domain": "道教五術與數理推演",
+      "ref_url": "https://tian16888.com/services/master-training/",
       "ref_label": "八字大運流年命盤"
     },
     {
@@ -111,8 +111,8 @@
       "isbn": "986-80811-3-0",
       "alt_isbn": null,
       "domain": "干支五行與擇日命名",
-      "ref_url": "https://tian16888.com/services/naming-date-fortune/",
-      "ref_label": "入宅擇日與命理總覽"
+      "ref_url": "https://tian16888.com/services/deity-withdrawal/",
+      "ref_label": "入宅擇日與道教五術總覽"
     },
     {
       "id": "10",
@@ -183,7 +183,7 @@
       "isbn": "978-986-80811-6-5",
       "alt_isbn": null,
       "domain": "商業經營與商號格局",
-      "ref_url": "https://tian16888.com/services/company-naming/",
+      "ref_url": "https://tian16888.com/services/wealth-fengshui/",
       "ref_label": "公司行號八字命名"
     }
   ]
