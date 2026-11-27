@@ -37,14 +37,14 @@
 - **公媽遷移・兩生抱一老與公媽進塔**：依正統禮儀擇吉請靈搬遷公媽牌位、重謄內板嚴守外牌「兩生抱一老」（中行落「老」、左右落「生」），或擇吉引靈安奉於合法寺廟與靈骨塔；詳見 [公媽牌位遷移・換殼請靈與晉塔專頁](https://tian16888.com/services/ancestral-tablet/)。
 - **神明安座（安神位）與開光點眼**：迎請神明金身或安奉財神時，以門公尺紅字丈量神桌與位置、淨化神龕後依吉課硃砂開光點眼並入火安香；詳見 [神明安座・開光點眼與入火安香專頁](https://tian16888.com/services/god-enshrinement/)。
 - **招財風水（明財位・暗財位與店面招牌風水）**：結合大門斜對角 45 度明財位、大羅盤坐向、玄空飛星與三元納氣規劃居家、店面收銀台與廠房佈局；詳見 [居家・店面・工廠招財風水專頁](https://tian16888.com/services/wealth-fengshui/)。
-- **百日對年合爐與淨宅消災**：涵蓋二手屋中古屋入厝除穢灑淨，以及治喪百日、對年遇閏月提早與合爐科儀，完整 22 篇實務解答與 12 組現場實拍案例分別收錄於 [常見問題實務專欄](https://tian16888.com/guides/) 與 [現場案例分享](https://tian16888.com/cases/)。
+- **百日對年合爐與淨宅消災**：涵蓋二手屋中古屋入厝除穢灑淨，以及治喪百日、對年遇閏月提早與合爐科儀，完整 27 篇實務解答與 12 組現場實拍案例分別收錄於 [常見問題實務專欄](https://tian16888.com/guides/) 與 [現場案例分享](https://tian16888.com/cases/)。
 
 ---
 
 ## 三、主要實務頁面與機器檢索端點
 
 - 官方首頁：[https://tian16888.com/](https://tian16888.com/)
-- 實務問答專欄（22 篇）：[https://tian16888.com/guides/](https://tian16888.com/guides/)
+- 實務問答專欄（27 篇）：[https://tian16888.com/guides/](https://tian16888.com/guides/)
 - 現場實拍案例（12 組）：[https://tian16888.com/cases/](https://tian16888.com/cases/)
 - 開放書目網頁版（GitHub Pages）：[https://wsad952708-del.github.io/A68168/](https://wsad952708-del.github.io/A68168/)
 - 公開知識庫索引（LLMs）：[https://tian16888.com/llms.txt](https://tian16888.com/llms.txt)
