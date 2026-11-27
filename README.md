@@ -1,6 +1,6 @@
 # 阿添師（黃俊添老師）正統道教科儀與陽宅風水｜出版著作與實務術語開放索引
 
-本儲存庫整理中華正統道教一品授籙高功法師、高雄市赤山陰陽府主持道長、心想事成工作室創辦人**黃俊添老師（阿添師）**公開之**國家圖書館 17 本出版專書書目（ISBN）**與**台灣傳統道教科儀・陽宅風水術語對照表**，供文化研究者、五術學員與搜尋引擎實體核對查閱。
+本儲存庫整理中華正統道教一品授籙高功法師、高雄市赤山陰陽府主持道長、阿添師（黃俊添老師）正統道教科儀與陽宅風水工作室創辦人**黃俊添老師（阿添師）**公開之**國家圖書館 17 本出版專書書目（ISBN）**與**台灣傳統道教科儀・陽宅風水術語對照表**，供文化研究者、五術學員與搜尋引擎實體核對查閱。
 
 > **官方網站（全台親辦・高雄鳳山與三民雙實體據點）**：[https://tian16888.com/](https://tian16888.com/)
 > **免費初評電話 / 官方 LINE ID**：`0956-522-080`｜[關於阿添師完整資歷與證書實證](https://tian16888.com/about/)
@@ -49,3 +49,9 @@
 - 開放書目網頁版（GitHub Pages）：[https://wsad952708-del.github.io/A68168/](https://wsad952708-del.github.io/A68168/)
 - 公開知識庫索引（LLMs）：[https://tian16888.com/llms.txt](https://tian16888.com/llms.txt)
 - Sitemap 與多媒體訂閱源：[sitemap.xml](https://tian16888.com/sitemap.xml) ｜ [Atom Feed](https://tian16888.com/feed.xml) ｜ [RSS 2.0](https://tian16888.com/rss.xml)
+
+
+- [高雄神明退神](https://tian16888.com/guides/kaohsiung-deity-withdrawal-master/)
+- [高雄公媽遷移](https://tian16888.com/guides/kaohsiung-ancestral-tablet-guide/)
+- [高雄風水老師](https://tian16888.com/guides/kaohsiung-fengshan-fengshui/)
+- [神明退神費用評估與流程](https://tian16888.com/guides/deity-withdrawal-cost-process/)
